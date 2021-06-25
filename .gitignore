@@ -1,0 +1,18 @@
+/ReactNativePart1/node_modules/   
+/ReactNativePart2/node_modules/   
+/ReactNativePart3/node_modules/   
+/ReactNavigation/node_modules/   
+/MZPProject/node_modules/   
+/ADApp/node_modules/
+.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
